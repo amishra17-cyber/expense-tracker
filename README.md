@@ -17,7 +17,7 @@ Technologies I used :
 
 How to run this project :
 First make sure you have Python installed on your system.
-clone the repository:
+clone the repository: https://github.com/amishra17-cyber/expense-tracker.git
 Then install Flask by running this command : pip install flask
 Then run the app : python app.py
 
